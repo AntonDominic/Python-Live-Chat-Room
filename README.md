@@ -1,3 +1,3 @@
 # Python-Live-Chat-Room
 
-This is Python Live Chat Room app using Python, Flask and  Socket.IO
+A Python Live Chat Room app using Python, Flask and Socket.IO (Event Driven Library)
